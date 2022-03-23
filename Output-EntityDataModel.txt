@@ -1,0 +1,2 @@
+﻿The 'configuration' start tag on line 2 position 2 does not match the end tag of 'connectionStrings'. Line 15, position 5.
+The 'configuration' start tag on line 2 position 2 does not match the end tag of 'connectionStrings'. Line 15, position 5.

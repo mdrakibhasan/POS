@@ -1,0 +1,8 @@
+﻿------ Build started: Project: UYPOS.Model, Configuration: Debug Any CPU ------
+  UYPOS.Model -> D:\Running Project\Delve_Solution\Running Project\UYSYS.POS(05-08-2017)\UYSYS.POS\UYPOS.Model\bin\Debug\UYPOS.Model.dll
+------ Build started: Project: UYSYS.POS, Configuration: Debug x86 ------
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1605,5): warning MSB3245: Could not resolve this reference. Could not locate the assembly "Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors.
+  UYSYS.POS -> D:\Running Project\Delve_Solution\Running Project\UYSYS.POS(05-08-2017)\UYSYS.POS\UYSYS.POS\bin\Debug\UYSYS.POS.exe
+------ Skipped Build: Project: PosSs, Configuration: Debug ------
+Project not selected to build for this solution configuration 
+========== Build: 2 succeeded or up-to-date, 0 failed, 1 skipped ==========
